@@ -9,6 +9,9 @@ Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.
 
+![SmallerImage](./blindbrothers.jpg)
+
+
 ## On deer horse aboard tritely yikes and much
 
 ![Test Image](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/blindbrothers.jpg)
