@@ -5,3 +5,8 @@ description: "Images and how Gatsby processes them."
 ---
 
 ![A tree](./tree.jpg)
+
+
+
+
+![A cloudinary tree](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/tree.jpg)
